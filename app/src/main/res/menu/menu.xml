@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item
+            android:id="@+id/MenuAllData"
+            android:title="All Data"
+            android:icon="@drawable/ic_date"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/MenuLogout"
+            android:title="Logout"
+            app:showAsAction="never"
+            android:icon="@drawable/ic_date" />
+</menu>
+
